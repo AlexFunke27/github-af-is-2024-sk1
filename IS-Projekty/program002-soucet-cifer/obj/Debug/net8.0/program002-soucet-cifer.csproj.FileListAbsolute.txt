@@ -1,0 +1,5 @@
+c:\aaa\IS-2024\github-af-is-2024-sk1\IS-Projekty\program002-soucet-cifer\obj\Debug\net8.0\program002-soucet-cifer.GeneratedMSBuildEditorConfig.editorconfig
+c:\aaa\IS-2024\github-af-is-2024-sk1\IS-Projekty\program002-soucet-cifer\obj\Debug\net8.0\program002-soucet-cifer.AssemblyInfoInputs.cache
+c:\aaa\IS-2024\github-af-is-2024-sk1\IS-Projekty\program002-soucet-cifer\obj\Debug\net8.0\program002-soucet-cifer.AssemblyInfo.cs
+c:\aaa\IS-2024\github-af-is-2024-sk1\IS-Projekty\program002-soucet-cifer\obj\Debug\net8.0\program002-soucet-cifer.csproj.CoreCompileInputs.cache
+c:\aaa\IS-2024\github-af-is-2024-sk1\IS-Projekty\program002-soucet-cifer\obj\Debug\net8.0\program002-soucet-cifer.sourcelink.json

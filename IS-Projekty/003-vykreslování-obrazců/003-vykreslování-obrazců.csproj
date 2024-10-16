@@ -1,0 +1,15 @@
+﻿using System;
+
+class Program {
+    static void Main() {
+        
+        string again = "a";
+        
+        while(again == "a") {
+            Console.Clear();
+            Console.WriteLine("****************************");
+            Console.WriteLine("***** Výpis řady čísel *****");
+            Console.WriteLine("****************************");
+            Console.WriteLine("******* Alex Funke ********");
+            Console.WriteLine("****************************");
+            Console.WriteLine();
