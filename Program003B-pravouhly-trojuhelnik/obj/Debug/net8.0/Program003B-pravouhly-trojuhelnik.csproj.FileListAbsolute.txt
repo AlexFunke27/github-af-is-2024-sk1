@@ -1,0 +1,15 @@
+C:\VŠ\IS-2024\github-af-is-2024-sk1\Program003B-pravouhly-trojuhelnik\bin\Debug\net8.0\Program003B-pravouhly-trojuhelnik.exe
+C:\VŠ\IS-2024\github-af-is-2024-sk1\Program003B-pravouhly-trojuhelnik\bin\Debug\net8.0\Program003B-pravouhly-trojuhelnik.deps.json
+C:\VŠ\IS-2024\github-af-is-2024-sk1\Program003B-pravouhly-trojuhelnik\bin\Debug\net8.0\Program003B-pravouhly-trojuhelnik.runtimeconfig.json
+C:\VŠ\IS-2024\github-af-is-2024-sk1\Program003B-pravouhly-trojuhelnik\bin\Debug\net8.0\Program003B-pravouhly-trojuhelnik.dll
+C:\VŠ\IS-2024\github-af-is-2024-sk1\Program003B-pravouhly-trojuhelnik\bin\Debug\net8.0\Program003B-pravouhly-trojuhelnik.pdb
+C:\VŠ\IS-2024\github-af-is-2024-sk1\Program003B-pravouhly-trojuhelnik\obj\Debug\net8.0\Program003B-pravouhly-trojuhelnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\VŠ\IS-2024\github-af-is-2024-sk1\Program003B-pravouhly-trojuhelnik\obj\Debug\net8.0\Program003B-pravouhly-trojuhelnik.AssemblyInfoInputs.cache
+C:\VŠ\IS-2024\github-af-is-2024-sk1\Program003B-pravouhly-trojuhelnik\obj\Debug\net8.0\Program003B-pravouhly-trojuhelnik.AssemblyInfo.cs
+C:\VŠ\IS-2024\github-af-is-2024-sk1\Program003B-pravouhly-trojuhelnik\obj\Debug\net8.0\Program003B-pravouhly-trojuhelnik.csproj.CoreCompileInputs.cache
+C:\VŠ\IS-2024\github-af-is-2024-sk1\Program003B-pravouhly-trojuhelnik\obj\Debug\net8.0\Program003B-pravouhly-trojuhelnik.sourcelink.json
+C:\VŠ\IS-2024\github-af-is-2024-sk1\Program003B-pravouhly-trojuhelnik\obj\Debug\net8.0\Program003B-pravouhly-trojuhelnik.dll
+C:\VŠ\IS-2024\github-af-is-2024-sk1\Program003B-pravouhly-trojuhelnik\obj\Debug\net8.0\refint\Program003B-pravouhly-trojuhelnik.dll
+C:\VŠ\IS-2024\github-af-is-2024-sk1\Program003B-pravouhly-trojuhelnik\obj\Debug\net8.0\Program003B-pravouhly-trojuhelnik.pdb
+C:\VŠ\IS-2024\github-af-is-2024-sk1\Program003B-pravouhly-trojuhelnik\obj\Debug\net8.0\Program003B-pravouhly-trojuhelnik.genruntimeconfig.cache
+C:\VŠ\IS-2024\github-af-is-2024-sk1\Program003B-pravouhly-trojuhelnik\obj\Debug\net8.0\ref\Program003B-pravouhly-trojuhelnik.dll
